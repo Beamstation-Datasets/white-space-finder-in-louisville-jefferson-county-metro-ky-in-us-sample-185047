@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 18 records |
 | Free sample size | 1 records (5.56%) |
-| Last export | 2026-04-07T15:34:42.702689+00:00 |
+| Last export | 2026-04-14T21:58:34.300474+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-louisville-jefferson-county-metro-ky-in-us-sample-185047/releases/download/sample-latest/beamstation_185047_food_and_drink-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
