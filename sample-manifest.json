@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2f83f018-4da5-47b9-b90d-cc71d6349ed9",
+  "export_job_id": "28e8e46c-1efc-4af0-ac95-5d202b7d5040",
   "id_short": 185047,
-  "published_at": "2026-04-10T19:28:14Z",
+  "published_at": "2026-04-18T07:33:24Z",
   "repo_name": "white-space-finder-in-louisville-jefferson-county-metro-ky-in-us-sample-185047",
   "sample_asset_name": "beamstation_185047_food_and_drink-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/185047/beamstation_185047_food_and_drink-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "2dc567ba871406a58ba24ed410b7a836f20fbe8504d923b5b51badb55faf290b",
-  "sample_size_bytes": 19756,
+  "sample_sha256": "edbeb876f6ce77324d7ba5dbe0a8354a6b62ec88b5cc05d718e26bb3cd27c273",
+  "sample_size_bytes": 19830,
   "total_records": 18
 }
