@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Louisville/Jefferson County, KY-IN that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Louisville/Jefferson County (Metro), KY-IN, US",
-  "export_job_id": "17ca67ba-ea7a-4803-9dd8-34ac6822a69d",
+  "export_job_id": "b4255968-7f28-4689-b288-5ab0e9c2fba2",
   "github_org": "Beamstation-Datasets",
   "id_short": 185047,
   "location_name": "Louisville/Jefferson County, KY-IN",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/185047/beamstation_185047_food_and_drink-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_pct": 5.56,
   "sample_records": 1,
-  "sample_sha256": "8e2ffec8ec81900824beed2fc1bd00fa2e3bfac572e3d1ad270f58f73514b812",
-  "sample_size_bytes": 19830,
+  "sample_sha256": "ff30b4fafa864ed82722e3e2633aadabc697cd11838931953489dd9824837399",
+  "sample_size_bytes": 19975,
   "total_records": 18,
-  "updated_at": "2026-04-22T14:39:30.717480+00:00"
+  "updated_at": "2026-04-29T03:42:07.724846+00:00"
 }
